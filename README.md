@@ -1,5 +1,8 @@
 # CryptoCoder
 
+CRYPTOGRAPHY METHOD
+In cryptography, the substitution method refers to a type of encryption methods in which characters or groups of characters are replaced with other characters or groups of characters based on a specified substitution table or key. The substitution table or key specifies the relationship between the original characters and their substitutes. Vigenère cipher is a substitution method that is use in the program. The Vigenère cipher is a polyalphabetic substitution cipher that extends the simple Caesar cipher. It uses a keyword or passphrase to determine the shifting amount for each letter in the plaintext, making it more secure than the Caesar cipher. The Vigenère cipher provides an additional layer of security compared to the simple Caesar cipher since it varies the shifting amount based on the keyword.
+
 HOW TO USE?
 
 To generate an encrypted message:
